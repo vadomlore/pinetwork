@@ -54,14 +54,14 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 * 苹果:IOS
 
   需要使用（非大陆地区）的ID才能下载
-
+  
   登陆id后在appstore搜 pi network下载即可
 
 * Android: android
-
-  android 本站提供了下载地址，也可通过其他途径下载，
-
-  下载地址
+  android 本站提供了下载地址
+  https://github.com/vadomlore/pi-network/raw/master/com.blockchainvault_1240_apkplz.net.apk
+  
+  也可通过其他途径下载。
 
 
 
