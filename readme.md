@@ -1,6 +1,6 @@
 ## 欢迎来到Pi Network
 
-![](.\images\invite.jpg)
+![](https://github.com/vadomlore/pi-network/blob/master/images/invite.jpg)
 
 
 
@@ -31,7 +31,7 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 
 
 
-![](.\images\core-team.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/core-team.PNG)
 
 
 
@@ -68,25 +68,25 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 ### 图文教程
 
 
-![](.\images\step0.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step0.PNG)
 
 最简便的是使用phone number注册， 如果有facebook账号，可以选择facebook注册
 
 
 
-![step1](.\images\step1.png)
+![step1](https://github.com/vadomlore/pi-network/blob/master/images/step1.png)
 
 选择国家China(+86)中国，输入电话号码
 
 
-![step2](.\images\step2.png)
+![step2](https://github.com/vadomlore/pi-network/blob/master/images/step2.png)
 
-![](.\images\step3.png)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step3.png)
 
 
-![](.\images\step4.png)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step4.png)
 
-![](.\images\step5.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step5.PNG)
 
 这里我就推荐我自己的邀请码：vadomlor
 
@@ -95,34 +95,34 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 
 
 
-![](.\images\step6.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step6.PNG)
 
 
-![](.\images\step7.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step7.PNG)
 
 
-![](.\images\step8.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step8.PNG)
 
 
-![](.\images\step9.png)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step9.png)
 
 
-![](.\images\step10.png)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step10.png)
 
 
 ![](.\imagse\step11.png)
 
 
-![](.\images\step12.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step12.PNG)
 
 
-![](.\images\step13.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step13.PNG)
 
 
-![](.\images\step14.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step14.PNG)
 
 
-![](.\images\step15.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step15.PNG)
 
 
 
@@ -132,7 +132,7 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 
 模型解释
 
-![](.\images\step16.PNG)
+![](https://github.com/vadomlore/pi-network/blob/master/images/step16.PNG)
 
 
 
