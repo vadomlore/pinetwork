@@ -1,6 +1,6 @@
 ## 欢迎来到Pi Network
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/invite.jpg)
+![](https://github.com/vadomlore/pi-network/raw/master/images/invite.jpg)
 
 
 
@@ -30,7 +30,7 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/core-team.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/core-team.png)
 
 
 
@@ -67,25 +67,25 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 ### 图文教程
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step0.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step0.png)
 
 最简便的是使用phone number注册， 如果有facebook账号，可以选择facebook注册
 
 
 
-![step1](https://github.com/vadomlore/pi-network/blob/master/images/step1.png)
+![step1](https://github.com/vadomlore/pi-network/raw/master/images/step1.png)
 
 选择国家China(+86)中国，输入电话号码
 
 
-![step2](https://github.com/vadomlore/pi-network/blob/master/images/step2.png)
+![step2](https://github.com/vadomlore/pi-network/raw/master/images/step2.png)
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step3.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step3.png)
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step4.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step4.png)
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step5.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step5.png)
 
 这里我就推荐我自己的邀请码：vadomlor
 
@@ -94,34 +94,34 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step6.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step6.png)
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step7.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step7.png)
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step8.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step8.png)
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step9.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step9.png)
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step10.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step10.png)
 
 
-![](.\imagse\step11.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step11.png)
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step12.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step12.png)
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step13.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step13.png)
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step14.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step14.png)
 
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step15.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step15.png)
 
 
 
@@ -129,15 +129,18 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 
 
 
-模型解释
+## UI
 
-![](https://github.com/vadomlore/pi-network/blob/master/images/step16.png)
+![](https://github.com/vadomlore/pi-network/raw/master/images/step16.png)
 
 
 
 ## 重大事件
 
 2020年3月14日上交易所，Happy Mining！
+
+## 作者邀请码
+vadomlor
 
 ## 链接
 
