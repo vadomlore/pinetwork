@@ -1,92 +1,94 @@
-## 欢迎来到Pi Network
+## Welcome to Pi Network
 
-*请选择语言: [简体中文](readme.md), [English](readme.en.md).*
+*Select language: [简体中文](readme.md), [English](readme.en.md).*
 
 ![InviteCode:vadomlor](https://github.com/vadomlore/pi-network/raw/master/images/invite.jpg)
 
 
-## Pi Network 使命
+## Pi Network Mission
 
-建立一个平常人能运用的加密货币智能合约平台，既安全又易于操作。
-
-
-## Pi Network愿景
-
-在Pi(世界上使用最广泛的加密货币)的推动下，建立世界上最具包容性的p2p市场。
+Build a cryptocurrency and smart contracts platform secured and operated by everyday people.
 
 
+## Pi Network Vision
 
-## Pi Network 是什么？
-
-* 首个可在手机上挖矿的数字资产。现在就开始运用这款轻量级应用，在手机上免费挖矿吧!挖掘数字货币非常之难。
-* 投资虚拟资产风险依旧，而我们太多人被排除在加密资产革命之外。
-* pi 使加密货币挖掘更变得简单，突破性技术让您在手机上挖矿而不会消耗电量和内存。
+Build the world's most inclusive peer-to-peer marketplace, fueled by Pi, the world's most widely used cryptocurrency.
 
 
 
-## Pi 核心团队
+## What is Pi Network？
 
-Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中包括两名博士和一名MBA。
-除了开发和教授斯坦福的区块链应用课程外，我们还是块链和分布式系统以及社会科学和人机交互的主题专家。
+* The first digital currency you can mine on your phone, start earning cryptocurrency today with our free, energy-light mobile app.
+* Investing in crypto is risky.Too many of us are left out of the cryptocurrency revolution.
+* Breakthrough tech allows you to mine on your phone without draining your battery.
 
 
+
+## Pi CoreTeam
 
 ![core-team](https://github.com/vadomlore/pi-network/raw/master/images/core-team.png)
 
+**Dr. Nicolas Kokkalis**
+Head of Technology
+Stanford PhD and instructor of Stanford’s first decentralized applications class; combining distributed systems and human computer interaction to bring cryptocurrency to everyday people. Read more ...
+
+**Dr. Chengdiao Fan**
+Head of Product
+Stanford PhD in Computational Anthropology harnessing social computing to unlock human potential on a global scale. Read more ...
+
+**Vincent McPhillip**
+Head of Community
+Yale and Stanford-trained social movement builder on a mission to democratize how society defines, creates, and distributes wealth. Read more ...
+
+## Pi Network Roadmap
+
+* Phase 1 - Design, Distribution, Trust Graph Bootstrap. 
+* Phase 2 - Testnet 
+* Phase 3 - Mainnet 
 
 
-## Pi Network 路线图
 
-* 阶段1-设计，分发，信任图引导程序
-* 阶段2-测试网
-* 阶段3-主网
+Join pi now, throw yourself into this digital currency revolution, you will gain more than your can image.
 
 
 
-加入pi ，投身这次移动虚拟货币划时代变革的潮流中，你将得到超乎想象的回报。
+## Install
 
+### Environment
 
+* apple:IOS
 
-## 下载安装教程
-
-### 运行环境
-
-* 苹果:IOS
-
-  需要使用（非大陆地区）的ID才能下载
-
-  登陆id后在appstore搜 pi network下载即可
+  enter into the apple store and search pi network
 
 * Android:
-  android 本站提供了下载地址
-  * 码云下载地址
+
+ * official:
+  https://minepi.com/#download
+
+  * Gitee address：
   https://gitee.com/zhenghaogit/pinetwork/raw/master/com.blockchainvault_1240_apkplz.net.apk
 
-  * 百度网盘下载地址
-    链接：https://pan.baidu.com/s/1H6km0j135tg_1f1l5ZPD_Q&shfl=sharepset
+  * baiduyun
+  ：https://pan.baidu.com/s/1H6km0j135tg_1f1l5ZPD_Q&shfl=sharepset
     <br /> 
-    提取码：1eg6 
+    code：1eg6 
 
-  * github下载地址:
+  * github:
   https://github.com/vadomlore/pinetwork/raw/master/com.blockchainvault_1240_apkplz.net.apk
 
-  * 其他下载地址:
-  http://www.mining.app/#download
 
-
-
-### 图文教程
+### Tutorial
 
 
 ![step0](https://github.com/vadomlore/pi-network/raw/master/images/step0.png)
 
-最简便的是使用phone number注册， 如果有facebook账号，可以选择facebook注册
+use your phone number, or facebook
 
 
 
 ![step1](https://github.com/vadomlore/pi-network/raw/master/images/step1.png)
 
-选择国家China(+86)中国，输入电话号码
+choose your state e.g UniteStates(+86)，and into your phone number
 
 
 ![step2](https://github.com/vadomlore/pi-network/raw/master/images/step2.png)
@@ -98,12 +100,10 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 
 ![step5](https://github.com/vadomlore/pi-network/raw/master/images/step5.png)
 
-这里我就推荐我自己的邀请码：vadomlor
-
-邀请好友的时候用自己的用户名作为邀请码邀请别人，千万别填错，不然就白邀请了。
+my invite code：vadomlor
 
 
-
+your username is also your invite code, when you invite new comer, don't spell the wrong one, otherwise all your hard work went down the rain.
 
 ![step6](https://github.com/vadomlore/pi-network/raw/master/images/step6.png)
 
@@ -120,7 +120,7 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 ![step10](https://github.com/vadomlore/pi-network/raw/master/images/step10.png)
 
 
-![step11](.\imagse\step11.png)
+![step11](https://github.com/vadomlore/pi-network/raw/master/images/step11.png)
 
 
 ![step12](https://github.com/vadomlore/pi-network/raw/master/images/step12.png)
@@ -136,34 +136,33 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 
 
 
-成功!
-
+succeed!
 
 
 ## UI
 
 ![explain](https://github.com/vadomlore/pi-network/raw/master/images/step16.png)
 
-## 作者的邀请码
+## Authors invite code
 
 vadomlor
 
 
 
-## 重大事件
+## Important
 
-2020年3月14日上交易所，Happy Mining！
+2020/3/14 trading launches,Happy Mining！
 
 ## 链接
 
-官网地址
+official address
 https://minepi.com/
 
-bilibili 官方宣传视频介绍
+official video on bilibili
 https://www.bilibili.com/video/av71521180?from=search&seid=2463089481232526866
 
 
-## 常见问题
+## FAQ
 
 * **什么是安全圈,安全圈有什么好处,怎样加安全圈?**
 
@@ -188,11 +187,9 @@ Pi的贡献者通过建立安全圈来指出和保证3-5个他们值得信任的
 安全圈成功开启之后，回到首页就可以看到右侧多了个盾牌标志，盾牌如果达到100%说明安全圈已经给你的算力加到最大化。点击盾牌可以查看你的安全圈详情。
 
 
-
 * **明明好友已经注册了Pi Network，但是在界面中选择拉朋友进安全圈的时候（Add Contact Users按钮），但是显示好友没有注册pi**？
 
 因为pi是多国发行，查找电话的时候没有国家号，查不到用户信息。目前解决方案是将手机通讯录的电话号码前面加前缀`+86`， 再重新用pi 邀请好友到安全圈，就可以识别了。
-
 
 
 * **什么时候可以搜集pi币，界面闪电颜色的含义，在哪儿查看还需要多久才能搜集？**
