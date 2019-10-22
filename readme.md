@@ -150,6 +150,12 @@ vadomlor
 
 
 
+## 邀请函原件
+
+[English Invite Card](invite_card_en_us.png)
+
+[中文邀请卡](invite_card_zh_cn.png)
+
 ## 重大事件
 
 2020年3月14日上交易所，Happy Mining！

@@ -63,18 +63,19 @@ Join pi now, throw yourself into this digital currency revolution, you will gain
 * Android:
 
  * official:
-  https://minepi.com/#download
+    https://minepi.com/#download
 
   * Gitee address：
-  https://gitee.com/zhenghaogit/pinetwork/raw/master/com.blockchainvault_1240_apkplz.net.apk
+    https://gitee.com/zhenghaogit/pinetwork/raw/master/com.blockchainvault_1240_apkplz.net.apk
 
   * baiduyun
-  ：https://pan.baidu.com/s/1H6km0j135tg_1f1l5ZPD_Q&shfl=sharepset
+    ：https://pan.baidu.com/s/1H6km0j135tg_1f1l5ZPD_Q&shfl=sharepset
+
     <br /> 
     code：1eg6 
 
   * github:
-  https://github.com/vadomlore/pinetwork/raw/master/com.blockchainvault_1240_apkplz.net.apk
+    https://github.com/vadomlore/pinetwork/raw/master/com.blockchainvault_1240_apkplz.net.apk
 
 
 ### Tutorial
@@ -146,6 +147,16 @@ succeed!
 ## Authors invite code
 
 vadomlor
+
+
+
+## InviteCard
+
+[English Invite Card](invite_card_en_us.png)
+
+[中文邀请卡](invite_card_zh_cn.png)
+
+
 
 
 
