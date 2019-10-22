@@ -160,7 +160,9 @@ vadomlor
 
 2020/3/14 trading launches,Happy Mining！
 
-## 链接
+
+
+## Reference
 
 official address
 https://minepi.com/
