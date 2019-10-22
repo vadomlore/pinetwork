@@ -156,10 +156,6 @@ vadomlor
 
 [中文邀请卡](invite_card_zh_cn.png)
 
-
-
-
-
 ## Important
 
 2020/3/14 trading launches,Happy Mining！
@@ -175,34 +171,34 @@ https://www.bilibili.com/video/av71521180?from=search&seid=2463089481232526866
 
 ## FAQ
 
-* **什么是安全圈,安全圈有什么好处,怎样加安全圈?**
+* **What is security circle ? what's the benifits of joinning security circle? How to join security circle?**
 
-**什么是安全圈**
+**What is security circle**
 
-安全圈（Security circle）是由每个Pi成员各自建立的信任圈，由他们所信任的3-5个人组成。各个Pi成员的安全圈聚合在一起从而构建“全局信任图”来保护货币，防止不良行为者执行欺诈性交易。
-
-**安全圈有什么好处**
-
-不像比特币或此类以能量消耗为工作证明（POW）来保护他们的账本的其它加密币，Pi保护账本的方式是通过其成员保证彼此值得信赖。
-
-Pi的贡献者通过建立安全圈来指出和保证3-5个他们值得信任的Pi其它成员。安全圈应由您信任的人组成，你信任他们不会执行欺诈性交易。网络的安全圈叠加可形成一个全局信任图，用于确定谁可以被信任在Pi的账本上执行交易。
-
-此外，安全圈相当于一个挖矿战队，通过开启安全圈与好友共同挖矿，还可以提高挖矿算力！
-
-**如何建立安全圈**
-
-当我们完成三天挖矿周期，也就是72小时之后（注意是挖矿时间而不是你的注册时间），可以建立一个安全圈。安全圈建立完成一天之后我们的算力将在原有基础上翻倍！
-
-点击小闪电进入后如果有EDIT SECURITY CIRCLE代表你已经挖矿72小时，如果没有出现这个小黄标则代表时间未到，小伙伴要努力了呦！
-
-安全圈成功开启之后，回到首页就可以看到右侧多了个盾牌标志，盾牌如果达到100%说明安全圈已经给你的算力加到最大化。点击盾牌可以查看你的安全圈详情。
+Security circle is a credit circle established by every pi member, consists of 3 -5 members.All the pi member in the security circle form the global credit graph to project currency, and to prevent deceptive trading.
 
 
-* **明明好友已经注册了Pi Network，但是在界面中选择拉朋友进安全圈的时候（Add Contact Users按钮），但是显示好友没有注册pi**？
 
-因为pi是多国发行，查找电话的时候没有国家号，查不到用户信息。目前解决方案是将手机通讯录的电话号码前面加前缀`+86`， 再重新用pi 邀请好友到安全圈，就可以识别了。
+**The benifit of security group**
 
+Unlike bitcoin or other coins leverage POW to protect their ledger, pi protect ledger by the member's mutual trust.
 
-* **什么时候可以搜集pi币，界面闪电颜色的含义，在哪儿查看还需要多久才能搜集？**
+Pi contributor set up security circle and select and ensure 3-5 members they trust. Security group should be combined with members you trust, and they will not execute deceptive trading. The security circle net form a global trust graph, to assure who is able to execute trading on the trusted pi ledger.
 
-  从点击小闪电收集，倒计时24:00:00开始，每24小时可以搜集一次。24小时到了之后，累计的pi币就不再增长，同时自己处于inactivate状态，邀请人也将不再享受你的算力加成。必须手动点击闪电后才会继续增长，所以尽量及时收币吧。UI界面的小闪电绿色代表币正在增长，灰色代表可以搜集，红色代表被封号。在用户信息界面里会有倒计时，表示多久后可以收币。
+what's more, security group is also a  mining fleet, by launch security group and mine with your friends, both of you can level up your mining speed!
+
+**How to build security group**
+
+when we finish three days mining circle, that is 72 hours later(keep in mind it is your mining time instead of register time), you can build up a security group. After the security circle set up for one day, our mining speed would multiple twice.
+
+tap the little flash, if the ui enter into the EDIT SECURITY CIRCLE, that means you already mine 72 hours in total,  if no yellow flash present, that means it is not the moment, keep up!
+
+when security circle successfully set up, go back to the main page and you will find a shield on the right side, if the shield is 100%, that means the security circle already increase the maximum calculation power.Tap the shield and see the detail. 
+
+* **My friends registered pi network, but I invite my friends to my security group**
+
+pi is published in many countries, only the phone number without country code can't locate correctly.now the solution is to add country code before your phone number. China can add `+86` prefix, go back and you will be able to invite your friends.
+
+* **When can I collect pi,  what's the meaing of the flash backgroud color, how long it takes to launch the next collection cirle?**
+
+  as long as you tap the little flash, the 24 hours count down begin, when count down to 0, you can collect and you will be in inactive state, when you tap again, you will be in active state.Note that inactive state will not gain extra calculation power.The green flash means it is collecting, grey time to collect, and red warning your account has problem.You can get the count down information in profile.
