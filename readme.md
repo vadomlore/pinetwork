@@ -158,7 +158,7 @@ vadomlor
 
 ## 重大事件
 
-2020年3月14日上交易所，Happy Mining！
+2020年3月14日Pi 里程碑活动，第二阶段开启，Happy Mining！
 
 ## 链接
 
