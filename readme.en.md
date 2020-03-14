@@ -158,7 +158,7 @@ vadomlor
 
 ## Important
 
-2020/3/14 trading launches,Happy Mining！
+2020/3/14 celebrate the pi day, and lanch phase 2,Happy Mining！
 
 
 
